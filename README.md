@@ -1,5 +1,5 @@
 # HR-Capstone-project
-# HR Analytics Capstone — README
+# HR Analytics Capstone project
 
 ## Why I'm writing this
 
