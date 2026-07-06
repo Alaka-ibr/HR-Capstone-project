@@ -37,7 +37,7 @@ My first instinct was to just TRIM/UPPER this too, like I did with Dept Code. Bu
 Stripped out the `$` and commas with SUBSTITUTE, then wrapped it in VALUE to force it back into an actual number. I made sure to do this before filling in the missing salaries, because the formula I used to fill blanks needed to average real numbers — if some salaries were still text at that point, they'd just get ignored by AVERAGEIF and throw off the numbers.
 
 **5. Hire Date.**
-This one took two attempts. Text to Columns fixed most of the text-based dates. But a handful still came through weird — turned out they were actual datetime values with a hidden time attached (something like midnight baked in), so they weren't displaying cleanly. I used INT() to strip off the time part and just keep the date, then reformatted the column properly.
+This one took two attempts. Text to Columns fixed most of the text-based dates. But a handful still came through weird — turned out they were actual datetime values with a hidden time attached , so they weren't displaying cleanly. I used INT() to strip off the time part and just keep the date, then reformatted the column properly.
 
 **6. Missing values.**
 - First_Name: 5 blanks, no way to recover the actual names from anything else in the sheet, so I just filled them with "Unknown" rather than leaving blanks that would've broken the Full Name formula later.
@@ -93,4 +93,3 @@ Once the numbers were actually right, a few things stood out from my own Pivot T
 
 ## Final file
 
-`HR_Capstone_Completed_[Alaka ibrahim].xlsx` — Raw_Employee_Data (cleaned, formulas in columns I–M), Analysis (4 Pivot Tables), HR Dashboard (KPI cards, 4 charts, 3 connected slicers). Everything's still formulas under the hood, nothing's been flattened into static values.
