@@ -76,7 +76,7 @@ I wanted to be clear about the difference between what the data literally shows 
 - *Insight:* This is the one that surprised me most. It suggests the company isn't losing its weakest performers  voluntary resignations skew toward people who were actually doing well. That's a more costly kind of turnover than losing underperformers, because you're not just backfilling a role, you're replacing someone who was good at it.
 
 **Q4 — Bonus Payout by Performance Band**
-- *Observation:* The "Achieving" band accounts for roughly $190K of the $502K total bonus pool  the single largest share, ahead of exceding** (~$145K) and "Outstanding" (~$92K).**
+- *Observation:* The "Achieving" band accounts for roughly $190K of the $502K total bonus pool  the single largest share, ahead of exceding(~$145K) and "Outstanding" (~$92K).
 - *Insight:* This isn't because top performers get shortchanged it's simply that more employees land in the middle "Achieving" band than in the very top bands, so the group as a whole draws a bigger total slice even at a lower bonus percentage each. Worth knowing if leadership assumes the bonus budget is mostly going to star performers — most of it, in dollar terms, is actually going to solidly-average employees.
 
 ## What I noticed once everything was clean
@@ -90,13 +90,7 @@ Once the numbers were actually right, a few things stood out from my own Pivot T
   
 **Finally**
   
-  This is the Pictorial visualization of the dashbord which give more details about the whole analysis carried out
-# HR Analytics Dashboard
-
-
-# HR Analytics Dashboard
-
-## Dashboard Preview
-
+  **This is the Pictorial visualization of the dashbord which give more viuals about the whole analysis carried out
+**
 ![Dashboard](./dashboard.png)
   
