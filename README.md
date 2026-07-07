@@ -1,5 +1,5 @@
 # HR Analytics Capstone project
-## process overview
+## Process overview
 
 Before I even opened the workbook properly, I wanted to write down what I actually did and why, step by step, so that if someone else opened this file they wouldn't have to guess my thought process. This isn't a polished report it's basically a log of how the cleaning went, including the parts that didn't work on the first try.
 
