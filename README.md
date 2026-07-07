@@ -87,9 +87,9 @@ Once the numbers were actually right, a few things stood out from my own Pivot T
 - **People who resign look different from people who get marked "Left."** Employees with status "Resigned" have the *highest* average performance score of any group (76.4), actually higher than Active employees (67.9) and well above Left employees (66.1). That's a pattern worth flagging on its own: it suggests the strongest performers are the ones voluntarily walking out the door, which is a more expensive kind of attrition than losing lower-performing employees.
 - **Bonus payout is heavily concentrated in the upper-middle bands, not the very top.** The "Achieving" band accounts for the single largest share of total bonus payout (approximately $190K of the approximately $502K total), more than "Exceeding" and "Outstanding" combined get individually. That's simply because there are more people clustered in the middle of the performance curve than at the very top worth knowing if leadership assumes most of the bonus budget goes to the highest performers.
 - **Missing data wasn't trivial.** 21 of 150 salary records and 9 performance scores were blank before cleaning that's roughly 1 in 7 salary rows. I used department-level averages to fill these rather than one company-wide number, since salary clearly varies by department; it's still an estimate, not the real figure, so anyone using this data for actual pay decisions should know which rows were imputed.
-- 
+  
 **Finally**
   
-  This is the Pictorial visualization(dashboard.png) of the dashbord which give more details about the whole analysis carried out
+  This is the Pictorial visualization![HR Dashboard](images/dashboard.png)of the dashbord which give more details about the whole analysis carried out
 
   
