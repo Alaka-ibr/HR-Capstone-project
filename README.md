@@ -76,8 +76,8 @@ I wanted to be clear about the difference between what the data literally shows 
 - *Insight:* This is the one that surprised me most. It suggests the company isn't losing its weakest performers  voluntary resignations skew toward people who were actually doing well. That's a more costly kind of turnover than losing underperformers, because you're not just backfilling a role, you're replacing someone who was good at it.
 
 **Q4 — Bonus Payout by Performance Band**
-- *Observation:* The "Achieving" band accounts for roughly $190K of the $502K total bonus pool  the single largest share, ahead of "Exceeding" (~$145K) and "Outstanding" (~$92K).
-- *Insight:* This isn't because top performers get shortchanged — it's simply that more employees land in the middle "Achieving" band than in the very top bands, so the group as a whole draws a bigger total slice even at a lower bonus percentage each. Worth knowing if leadership assumes the bonus budget is mostly going to star performers — most of it, in dollar terms, is actually going to solidly-average employees.
+- *Observation:* The "Achieving" band accounts for roughly $190K of the $502K total bonus pool  the single largest share, ahead of exceding** (~$145K) and "Outstanding" (~$92K).**
+- *Insight:* This isn't because top performers get shortchanged it's simply that more employees land in the middle "Achieving" band than in the very top bands, so the group as a whole draws a bigger total slice even at a lower bonus percentage each. Worth knowing if leadership assumes the bonus budget is mostly going to star performers — most of it, in dollar terms, is actually going to solidly-average employees.
 
 ## What I noticed once everything was clean
 
@@ -87,3 +87,6 @@ Once the numbers were actually right, a few things stood out from my own Pivot T
 - **People who resign look different from people who get marked "Left."** Employees with status "Resigned" have the *highest* average performance score of any group (76.4), actually higher than Active employees (67.9) and well above Left employees (66.1). That's a pattern worth flagging on its own: it suggests the strongest performers are the ones voluntarily walking out the door, which is a more expensive kind of attrition than losing lower-performing employees.
 - **Bonus payout is heavily concentrated in the upper-middle bands, not the very top.** The "Achieving" band accounts for the single largest share of total bonus payout (approximately $190K of the approximately $502K total), more than "Exceeding" and "Outstanding" combined get individually. That's simply because there are more people clustered in the middle of the performance curve than at the very top worth knowing if leadership assumes most of the bonus budget goes to the highest performers.
 - **Missing data wasn't trivial.** 21 of 150 salary records and 9 performance scores were blank before cleaning that's roughly 1 in 7 salary rows. I used department-level averages to fill these rather than one company-wide number, since salary clearly varies by department; it's still an estimate, not the real figure, so anyone using this data for actual pay decisions should know which rows were imputed.
+**Finally**
+  This is the Pictorial visualization![HR Dashboard](dashboard.png) of the dashbord which give more details about the whole analysis carried out
+  
