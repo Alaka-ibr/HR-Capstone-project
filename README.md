@@ -91,5 +91,8 @@ Once the numbers were actually right, a few things stood out from my own Pivot T
 **Finally**
   
   This is the Pictorial visualization of the dashbord which give more details about the whole analysis carried out
+# HR Analytics Dashboard
 
+![HR Analytics Dashboard](dashboard .png
+)
   
